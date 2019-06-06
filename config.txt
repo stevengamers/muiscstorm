@@ -1,0 +1,6 @@
+owner=521709022097702925
+prefix=!
+game=type !play server storm
+stayinchannel=true
+songinstatus=false
+token=NTg2MjcwNjEyNTc4NzYyNzU2.XPllXQ.f8if5maU8hjcl8Swe9e48-X2CwI
